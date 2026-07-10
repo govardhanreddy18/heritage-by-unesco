@@ -51,7 +51,7 @@ https://public.tableau.com/app/profile/jettigundla.govardhan.reddy/viz/newunesco
 
 ## 📸 Dashboard Preview
 
-<img width="100%" alt="Dashboard Preview" src="Dashboard.png">
+<img width="100%" alt="Dashboard Preview" src="Dashboard 2.png">
 
 > *(Upload your dashboard screenshot as **Dashboard.png** in this repository for the preview image to display.)*
 
